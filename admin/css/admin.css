@@ -1,0 +1,100 @@
+.max-sb-admin-tab pre {
+    margin: 0 !important;
+    display: flex;
+}
+.tab-content h2{
+    font-size: 1.5em !important;
+    margin: 15px 0;
+}
+.tab-content h2:not(:first-of-type){
+    border-top:1px solid;
+    padding-top: 20px;
+}
+.max-sb-admin-tab pre code {
+    display: block;
+    padding: 1em;
+}
+#adminmenu .toplevel_page_max-geo-location .wp-menu-image img {
+    height: 20px !important;
+    opacity: 1;
+    padding-top: 9px;
+}
+.max-sb-dashboard {
+    height: 100%;
+    margin: 0 auto !important;
+    max-width: 800px;
+    padding: 20px 0;
+}
+.max-sb-dashboard__logo {
+    margin: 0 auto;
+    max-width: 200px;
+}
+.max-sb-dashboard__content {
+    padding: 20px 0;
+}
+.max-sb-dashboard__footer {
+    background-color: #c22c29;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+.max-sb-dashboard__footer p {
+    margin-top: 0;
+}
+.max-sb-dashboard__author {
+    display: flex;
+}
+.max-sb-dashboard__author-details {
+    padding-right: 20px;
+}
+.max-sb-dashboard .max-sb-col {
+    width: 50%;
+}
+.max-sb-dashboard hr {
+    margin: 30px 0;
+}
+.max-sb-dasboard__social > div {
+    display: flex;
+    justify-content: center;
+}
+.max-sb-dasboard__social a {
+    color: #fff;
+    display: flex;
+    margin: 0 5px;
+    text-decoration: none;
+}
+.max-sb-dasboard__social a svg {
+    fill: #fff;
+    height: 18px;
+    margin-right: 5px;
+    width: 18px;
+}
+.max-sb-mini-card {
+    display: flex;
+}
+.max-sb-mini-card img {
+    display: block;
+    height: auto;
+}
+.max-sb-dashboard__title {
+    font-size: 40px;
+    text-align: center;
+}
+.max-sb-dashboard figure {
+    width: 500px;
+}
+.max-sb-dashboard img {
+    height: auto;
+    max-width: 100%;
+}
+#adminmenu .wp-menu-image img{
+    height: 20px;
+}
+.table-view-list.posts{
+    text-transform: capitalize !important;
+}
+.column-bol_account_id{
+    display: block;
+    width: 80% !important;
+    padding: 20px !important;
+}

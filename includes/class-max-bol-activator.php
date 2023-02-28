@@ -1,0 +1,1 @@
+<?phpclass MAX_BOL_Activator {	public static function activate() {}}
